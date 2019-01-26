@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
     s.homepage     =  'https://github.com/jakeheis/Shout'
     s.license      =  { :type => 'MIT', :file => '../LICENSE' }
     s.source       = { :git => "https://github.com/jakeheis/Shout.git", :tag => "master" }
-    s.source_files  = "Shout.*"
+#     s.source_files  = "Shout.*"
     
 end

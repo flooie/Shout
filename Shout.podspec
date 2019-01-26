@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
     s.name         = "Shout"
     s.version      = "0.4.3"
     s.summary      = "A short description of Shout."
+    s.authors      =  { 'Jake Heiser' => '' }
     s.license      = "MIT (example)"
     s.source       = { :git => "https://github.com/jakeheis/Shout.git", :tag => "master" }
     s.source_files  = "Shout.*"
